@@ -46,7 +46,7 @@ Guards:
    ```sh
    git clone https://github.com/mahmoud-abdelnour/laravel-multitenancy-multiauth.git
 
-   cd <laravel-multitenancy-multiauth>
+   cd laravel-multitenancy-multiauth
    ```
 
 2. **Install dependencies:**
